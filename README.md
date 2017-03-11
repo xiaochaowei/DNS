@@ -1,2 +1,2 @@
 # DNS
-#An DNS server with cache and forwarder
+## An DNS server with cache and forwarder
