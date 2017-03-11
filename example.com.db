@@ -1,0 +1,6 @@
+@	IN	NS	ns.example.com.
+@	IN	MX	10 mail.example.com.
+
+www	IN	A	192.168.8.101
+mail	IN	A	192.168.8.102
+ns	IN	A	192.168.8.156

@@ -1,0 +1,7 @@
+@	IN	NS	ns.goodweb.com.
+@	IN	MX	10 mail.goodweb.com.
+
+www	IN	A	192.168.8.101
+mail	IN	A	192.168.8.102
+ns	IN	A	192.168.8.156
+*.goodweb.com.	IN	A 192.168.8.100
